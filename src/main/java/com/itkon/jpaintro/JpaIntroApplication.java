@@ -6,8 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class JpaIntroApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(JpaIntroApplication.class, args);
-	}
-
+    public static void main(String[] args) {
+        SpringApplication.run(JpaIntroApplication.class, args);
+    }
 }
